@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I am into body building and running.**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fRZsQLCDY8xUrXJteZXmkcHFzgeoEEs3/view?usp=drive_link](https://drive.google.com/file/d/1fRZsQLCDY8xUrXJteZXmkcHFzgeoEEs3/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1fRZsQLCDY8xUrXJteZXmkcHFzgeoEEs3/view?usp=drive_link](https://docs.google.com/document/d/1gBbY4anFrdn85Wtl3luXlcW4SWBKpzED/edit?usp=sharing&ouid=116509202596390140765&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
