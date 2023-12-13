@@ -3,13 +3,13 @@
 <h3 align="center">Computer Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/b2b1888d6c59f6dbf88a31c43db279ce/772f2c4a7f13fefb-99/s640x960/f59c9a87b67cedfd449e38a68ae0f994b8aa2055.gifv">
 
-- 🔭 I’m currently working on **Battleship Program in Java and Fine Motor Skill Website for Toddlers in p5.js**
+- 🔭 I’m currently working on **Grade Calculator Project**
 
-- 🌱 I’m currently learning **Java and p5.js (Javascript)**
+- 🌱 I’m currently learning **CSS and JavaScript**
 
 - 📫 How to reach me **pschang1@asu.edu**
 
-- ⚡ Fun fact **I am into body building and running.**
+- ⚡ Fun fact **Beef is my favorite show.**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fRZsQLCDY8xUrXJteZXmkcHFzgeoEEs3/view?usp=drive_link](https://docs.google.com/document/d/1gBbY4anFrdn85Wtl3luXlcW4SWBKpzED/edit?usp=sharing&ouid=116509202596390140765&rtpof=true&sd=true)
 
